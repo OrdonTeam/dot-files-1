@@ -1,6 +1,6 @@
 [user]
-	name = ghostbuster91
-	email = kghost0@gmail.com
+	name = "Karol Kowalski"
+	email = ordon1313@gmail.com
 [core]
 	excludesfile = ~/.gitignore_global
 	editor = vim
